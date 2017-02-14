@@ -72,16 +72,15 @@
 ###Ubuntu
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
 
-
-
+***
 
 ## Contacts	![](image/zz.jpg)
 
-####If you wish to contact me, email at: hi@jinxiansen.com
-
-#####Sina : [@晋先森](http://weibo.com/3205872327)
-#####Twitter : [@jinxiansen](https://twitter.com/jinxiansen)
+#####欢迎完善、共同学习。
+* email : hi@jinxiansen.com
+* Sina : [@晋先森](http://weibo.com/3205872327)
+* Twitter : [@jinxiansen](https://twitter.com/jinxiansen)
 
 ## License	
 
-JHUD is released under the [MIT license](LICENSE). See LICENSE for details.
+SwiftServerDocument is released under the [MIT license](LICENSE). See LICENSE for details.
