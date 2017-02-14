@@ -22,9 +22,7 @@
 	* [Swift3.0服务端开发(二) 静态文件添加、路由配置以及表单提交](http://www.cnblogs.com/ludashi/p/6160898.html)
 	* [Swift3.0服务端开发(三) Mustache页面模板与日志记录](http://www.cnblogs.com/ludashi/p/6164931.html)
 	* [Swift3.0服务端开发(四) MySQL数据库的连接与操作](http://www.cnblogs.com/ludashi/p/6165418.html)
-	* [Swift3.0服务端开发(五) 记事本的开发（iOS端+服务端）](http://www.cnblogs.com/ludashi/p/6179711.html)	
-	
-
+	* [Swift3.0服务端开发(五) 记事本的开发（iOS端+服务端）](http://www.cnblogs.com/ludashi/p/6179711.html)		
 * [从头开始创建一个基于Swift的Perfect的服务端](http://www.jianshu.com/p/a4741a89f679)
 * [尝试Swift服务器框架 - Perfect](http://www.jianshu.com/p/316a44bdeeeb)
 * [Swift3.0用Perfect和MySQL搭自己的服务器](http://www.jianshu.com/p/6496e53f1690)
@@ -55,7 +53,6 @@
 | [Github](https://github.com/vapor/vapor)
 
 ###macOS
-
 * [服务端 Swift - Vapor 篇](http://www.jianshu.com/p/3fc28570d951)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://www.jianshu.com/p/f20586ee8ec0)
 * [Swift 后台开发 -- 登录授权（User & Model](http://www.jianshu.com/p/25df9b538007)
