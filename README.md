@@ -14,6 +14,12 @@
 | [官方文档](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)
 | [Github](https://github.com/PerfectlySoft/Perfect)
 
+###评价
+* [如何看待基于 Swift 语言的后端项目 Perfect？](https://www.zhihu.com/question/38001606)
+* [Swift 语言正式开始布局 Server-Side 战略](https://zhuanlan.zhihu.com/p/23217020)
+* [如何看待 Swift Server APIs 计划？](https://www.zhihu.com/question/51983116)
+
+###资料
 * [Perfect 网络框架的应用 —— 基本方法、MySQL连接和Cpp代码接入](http://www.jianshu.com/p/bdc56771d13a)
 * [Perfect 网络框架的应用 —— 动态博客开发](http://www.jianshu.com/p/5bcd60439f1b)
 * [使用 Server-Side Swift 开发 RESTful API](http://www.liuhaihua.cn/archives/478555.html)
@@ -52,6 +58,7 @@
 | [官方文档](https://vapor.github.io/documentation/getting-started/install-swift-3-macos.html)
 | [Github](https://github.com/vapor/vapor)
 
+###评价
 ###macOS
 * [服务端 Swift - Vapor 篇](http://www.jianshu.com/p/3fc28570d951)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://www.jianshu.com/p/f20586ee8ec0)
@@ -74,9 +81,9 @@
 ## Contacts	![](image/zz.jpg)
 
 #####欢迎完善、共同学习。
-* email : hi@jinxiansen.com
 * Sina : [@晋先森](http://weibo.com/3205872327)
 * Twitter : [@jinxiansen](https://twitter.com/jinxiansen)
+* Email : hi@jinxiansen.com
 
 ## License	
 
