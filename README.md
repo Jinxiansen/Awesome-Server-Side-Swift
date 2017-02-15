@@ -1,7 +1,7 @@
 ##Swift Server
 
 
-[不服跑个分 - 顶级 Swift 服务端框架对决 Node.js](http://www.jianshu.com/p/e44bddf43ee0)
+[不服跑个分 - 顶级 Swift 服务端框架对决 Node.js](https://zhuanlan.zhihu.com/p/22574747)
 
 ***
 
