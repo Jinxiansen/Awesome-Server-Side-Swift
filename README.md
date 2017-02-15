@@ -58,7 +58,6 @@
 | [官方文档](https://vapor.github.io/documentation/getting-started/install-swift-3-macos.html)
 | [Github](https://github.com/vapor/vapor)
 
-###评价
 ###macOS
 * [服务端 Swift - Vapor 篇](http://www.jianshu.com/p/3fc28570d951)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://www.jianshu.com/p/f20586ee8ec0)
