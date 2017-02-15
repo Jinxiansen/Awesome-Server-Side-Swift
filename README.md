@@ -41,8 +41,6 @@
 	* [Perfect让Swift在服务器端跑起来－在Linux上创建你的Perfect项目(三)](http://blog.csdn.net/kinfey/article/details/50683127)
 	* [Perfect让Swift在服务器端跑起来－Perfect in Visual Studio Code (四)](http://blog.csdn.net/kinfey/article/details/50740657)
 	* [Perfect让Swift在服务器端跑起来－让Perfect更Rails (五)](http://blog.csdn.net/kinfey/article/details/50754770)
-
-###Ubuntu
 * [Swift/Perfect部署到Ubuntu上](http://www.jianshu.com/p/ae96107ec1ae)
 
 ###Example
@@ -72,9 +70,9 @@
 * [LookupWord - 用Vapor架設Swift伺服器 - 和我一起Swift](http://www.jianshu.com/p/5e3d61633908)
 
 
-###Ubuntu
+###Linux
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
-
+* [使用 Swift 3.0 操作 MySQL 数据库](http://swift.gg/2016/10/17/working-with-mysql-databases-using-swift-3-0/)
 ***
 
 ## Contacts	![](image/zz.jpg)
