@@ -59,7 +59,7 @@
 ###macOS
 * [服务端 Swift - Vapor 篇](http://www.jianshu.com/p/3fc28570d951)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://www.jianshu.com/p/f20586ee8ec0)
-* [Swift 后台开发 -- 登录授权（User & Model](http://www.jianshu.com/p/25df9b538007)
+* [Swift 后台开发 -- 登录授权 (User & Model)](http://www.jianshu.com/p/25df9b538007)
 * [Vapor系列教程 - 目录](http://www.jianshu.com/p/083a5486feda)
 * [Vapor - 用Swift编写你的App后台](http://www.jianshu.com/p/78ccf0547549)
 * [Swift服务端-Vapor初次使用](http://www.jianshu.com/p/5b435c295491)
@@ -73,6 +73,12 @@
 ###Linux
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://swift.gg/2016/10/17/working-with-mysql-databases-using-swift-3-0/)
+
+***
+
+##Other
+* [Linux下MySQL安装与操作 - 简书](http://www.jianshu.com/p/35714c15b19c)
+* [Python 进程管理工具 Supervisor 使用教程](http://www.restran.net/2015/10/04/supervisord-tutorial/)
 
 ***
 
