@@ -78,6 +78,7 @@
 
 ##Other
 * [Linux下MySQL安装与操作 - 简书](http://www.jianshu.com/p/35714c15b19c)
+* [Supervisor 配置过程](https://www.izixia.cn/2016/01/03/supervisor-pei-zhi-guo-cheng/)
 * [Python 进程管理工具 Supervisor 使用教程](http://www.restran.net/2015/10/04/supervisord-tutorial/)
 
 ***
