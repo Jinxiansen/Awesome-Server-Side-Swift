@@ -1,12 +1,12 @@
-##Swift Server
+## Swift Server
 
 
-[不服跑个分 - 顶级 Swift 服务端框架对决 Node.js](https://zhuanlan.zhihu.com/p/22574747)
+收藏了些学习 Swift Server 的资料以便日后查阅。
 
 ***
 
 <img src="image/perfect.png" width="60%">
-##Perfect
+## Perfect
 
 > Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。
 
@@ -14,12 +14,12 @@
 | [官方文档](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)
 | [Github](https://github.com/PerfectlySoft/Perfect)
 
-###评价
+### 评价
 * [如何看待基于 Swift 语言的后端项目 Perfect？](https://www.zhihu.com/question/38001606)
 * [Swift 语言正式开始布局 Server-Side 战略](https://zhuanlan.zhihu.com/p/23217020)
 * [如何看待 Swift Server APIs 计划？](https://www.zhihu.com/question/51983116)
 
-###资料
+### 资料
 * [Perfect 网络框架的应用 —— 基本方法、MySQL连接和Cpp代码接入](http://www.jianshu.com/p/bdc56771d13a)
 * [Perfect 网络框架的应用 —— 动态博客开发](http://www.jianshu.com/p/5bcd60439f1b)
 * [使用 Server-Side Swift 开发 RESTful API](http://www.liuhaihua.cn/archives/478555.html)
@@ -34,7 +34,7 @@
 * [Swift3.0用Perfect和MySQL搭自己的服务器](http://www.jianshu.com/p/6496e53f1690)
 * [Swift3.0用Perfect+MYSQL搭建服务器](http://www.jianshu.com/p/c117294e2442)
 	
-###Linux
+### Linux
 * [Perfect让Swift在服务器端跑起来]
 	* [Perfect让Swift在服务器端跑起来－引言（一）](http://blog.csdn.net/kinfey/article/details/50644752)
 	* [Perfect让Swift在服务器端跑起来－Hi Linux(二)](http://blog.csdn.net/kinfey/article/details/50664353)
@@ -43,13 +43,13 @@
 	* [Perfect让Swift在服务器端跑起来－让Perfect更Rails (五)](http://blog.csdn.net/kinfey/article/details/50754770)
 * [Swift/Perfect部署到Ubuntu上](http://www.jianshu.com/p/ae96107ec1ae)
 
-###Example
+### Example
 * [SwiftServer](https://github.com/kongfanwu/SwiftServer)
 
 ***
 
 <img src="image/Vapor.png" width="50%">
-##Vapor:
+## Vapor:
 >Vapor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
 
 [官方网站](https://vapor.codes)
@@ -70,13 +70,13 @@
 * [LookupWord - 用Vapor架設Swift伺服器 - 和我一起Swift](http://www.jianshu.com/p/5e3d61633908)
 
 
-###Linux
+### Linux
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://swift.gg/2016/10/17/working-with-mysql-databases-using-swift-3-0/)
 
 ***
 
-##Other
+## Other
 * [Linux下MySQL安装与操作 - 简书](http://www.jianshu.com/p/35714c15b19c)
 * [Supervisor 配置过程](https://www.izixia.cn/2016/01/03/supervisor-pei-zhi-guo-cheng/)
 * [Python 进程管理工具 Supervisor 使用教程](http://www.restran.net/2015/10/04/supervisord-tutorial/)
@@ -85,9 +85,8 @@
 
 ## Contacts	![](image/zz.jpg)
 
-#####欢迎完善、共同学习。
-* Sina : [@晋先森](http://weibo.com/3205872327)
-* Twitter : [@jinxiansen](https://twitter.com/jinxiansen)
+##### 欢迎完善、共同学习。
+
 * Email : hi@jinxiansen.com
 
 ## License	
