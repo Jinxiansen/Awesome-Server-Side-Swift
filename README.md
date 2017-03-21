@@ -1,11 +1,11 @@
 ## Swift Server
 
-
 收藏了些学习 Swift Server 的资料以便日后查阅。
 
 ***
 
 <img src="image/perfect.png" width="60%">
+
 ## Perfect
 
 > Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。
@@ -15,11 +15,13 @@
 | [Github](https://github.com/PerfectlySoft/Perfect)
 
 ### 评价
+
 * [如何看待基于 Swift 语言的后端项目 Perfect？](https://www.zhihu.com/question/38001606)
 * [Swift 语言正式开始布局 Server-Side 战略](https://zhuanlan.zhihu.com/p/23217020)
 * [如何看待 Swift Server APIs 计划？](https://www.zhihu.com/question/51983116)
 
 ### 资料
+
 * [Perfect 网络框架的应用 —— 基本方法、MySQL连接和Cpp代码接入](http://www.jianshu.com/p/bdc56771d13a)
 * [Perfect 网络框架的应用 —— 动态博客开发](http://www.jianshu.com/p/5bcd60439f1b)
 * [使用 Server-Side Swift 开发 RESTful API](http://www.liuhaihua.cn/archives/478555.html)
@@ -44,12 +46,15 @@
 * [Swift/Perfect部署到Ubuntu上](http://www.jianshu.com/p/ae96107ec1ae)
 
 ### Example
+
 * [SwiftServer](https://github.com/kongfanwu/SwiftServer)
 
 ***
 
 <img src="image/Vapor.png" width="50%">
+
 ## Vapor:
+
 >Vapor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
 
 [官方网站](https://vapor.codes)
@@ -57,6 +62,7 @@
 | [Github](https://github.com/vapor/vapor)
 
 ###macOS
+
 * [服务端 Swift - Vapor 篇](http://www.jianshu.com/p/3fc28570d951)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://www.jianshu.com/p/f20586ee8ec0)
 * [Swift 后台开发 -- 登录授权 (User & Model)](http://www.jianshu.com/p/25df9b538007)
@@ -71,12 +77,14 @@
 
 
 ### Linux
+
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://swift.gg/2016/10/17/working-with-mysql-databases-using-swift-3-0/)
 
 ***
 
 ## Other
+
 * [Linux下MySQL安装与操作 - 简书](http://www.jianshu.com/p/35714c15b19c)
 * [Supervisor 配置过程](https://www.izixia.cn/2016/01/03/supervisor-pei-zhi-guo-cheng/)
 * [Python 进程管理工具 Supervisor 使用教程](http://www.restran.net/2015/10/04/supervisord-tutorial/)
