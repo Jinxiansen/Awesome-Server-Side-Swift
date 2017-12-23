@@ -59,7 +59,7 @@
 >Vapor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
 
 [官方网站](https://vapor.codes)
-| [官方文档](https://vapor.github.io/documentation/getting-started/install-swift-3-macos.html)
+| [官方文档](https://docs.vapor.codes/2.0/)
 | [Github](https://github.com/vapor/vapor)
 
 ### macOS
@@ -81,6 +81,7 @@
 
 * [在Ubuntu安装swift3.0并部署Vapor](http://www.jianshu.com/p/dab36098d17e)
 * [使用 Swift 3.0 操作 MySQL 数据库](http://swift.gg/2016/10/17/working-with-mysql-databases-using-swift-3-0/)
+* [swift vapor 博客系统](https://github.com/OHeroJ/site)
 
 ***
 
