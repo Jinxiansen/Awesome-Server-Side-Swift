@@ -2,6 +2,8 @@
 
 收藏了些学习 Swift Server 的资料以便日后查阅。
 
+> 附本人开源的基于 Vapor 框架的 [Swift 服务端开源项目](https://github.com/Jinxiansen/SwiftServerSide-Vapor) 
+
 ***
 
 <img src="image/perfect.png" width="60%">
